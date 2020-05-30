@@ -28,7 +28,7 @@ describe("Google Search", () => {
   });
 });
 
-describe("Art in Animal Crossing: New Horizons", () => {
+describe("Tests with Animal Crossing: New Horizons API", () => {
   // PROMISE TEST
   it("get Art from api", (done) => {
     // expect 1 assertion to test
